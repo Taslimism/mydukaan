@@ -1,0 +1,21 @@
+.product-heading {
+	margin: 80px 160px 0;
+}
+.product-detail-container {
+	margin: 48px 160px 80px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 32px;
+}
+
+.product-detail-container > div {
+	width: 352px;
+}
+.product-detail-container img {
+	margin-bottom: 16px;
+	width: 100%;
+	height: 200px;
+}
+.product-detail-container h3 {
+	margin-bottom: 4px;
+}

@@ -1,7 +1,7 @@
 .hero-container {
 	padding: 64px 192px;
-	position: absolute;
-	top: 134px;
+	position: relative;
+	bottom: 134px;
 	background: white;
 	margin: 0 160px 80px;
 	border-radius: 8px;
