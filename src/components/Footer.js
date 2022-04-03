@@ -21,8 +21,8 @@ const Footer = () => {
 				</div>
 				<div>
 					<p>About</p>
-					<p>
-						Jobs<span className={style["noOfJobs"]}>3</span>
+					<p className={style.jobs}>
+						Jobs<div className={style["noOfJobs"]}>3</div>
 					</p>
 				</div>
 				<div>
